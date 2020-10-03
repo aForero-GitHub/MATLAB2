@@ -1,4 +1,4 @@
-# PskModulator AND PskDemodulator
+# Modulator AND Demodulator
 
 1. BERvsSNR -> PSK MODULATOR and DEMODULATOR
 
