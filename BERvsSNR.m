@@ -1,3 +1,4 @@
+% GRAFICA DE BERvsSNR para PSK
 ber = [];
 srn = [];
 hMod = comm.PSKModulator(32);
@@ -20,4 +21,4 @@ end
 plot(srn,ber,'r');
 ylabel("BER");
 xlabel("SRN");
-title("Error de bits relacion señal ruido 8PSK")
+title("Error de bits relacion señal ruido 32PSK")
